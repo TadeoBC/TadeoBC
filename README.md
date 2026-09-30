@@ -2,11 +2,13 @@
 
 <img src="assets/banner.svg" width="100%" alt="Tadeo BC — The Dark Knight of Automation"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Gotham+necesita+automatizaci%C3%B3n.;No+soy+el+h%C3%A9roe+que+quer%C3%ADas%2C+soy+el+que+despliega.;Si+se+hace+dos+veces%2C+se+automatiza.;Java+%E2%98%95+%2B+Web+%2B+Docker+%2B+caf%C3%A9+negro)](https://github.com/TadeoBC)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Gotham+necesita+automatizaci%C3%B3n.;No+soy+el+h%C3%A9roe+que+quer%C3%ADas%2C+soy+el+que+despliega.;Si+se+hace+dos+veces%2C+se+automatiza.;Java+%E2%98%95+%2B+Web+%2B+Docker+%2B+caf%C3%A9+negro;macOS+lover+%F0%9F%8D%8E+%C2%B7+iOS+developer+uwu)](https://github.com/TadeoBC)
 
 ![Visitas](https://komarev.com/ghpvc/?username=TadeoBC&label=GOTHAM+VISITS&color=FFD700&style=for-the-badge&labelColor=000000)
 ![Atlyx](https://img.shields.io/badge/ATLYX_STUDIO-FOUNDER-FFD700?style=for-the-badge&labelColor=000000)
 ![Java](https://img.shields.io/badge/JAVA-%E2%99%A5-FFD700?style=for-the-badge&logo=openjdk&logoColor=FFD700&labelColor=000000)
+![macOS](https://img.shields.io/badge/macOS-LOVER_uwu-FFD700?style=for-the-badge&logo=apple&logoColor=FFD700&labelColor=000000)
+![iOS](https://img.shields.io/badge/iOS-DEVELOPER-FFD700?style=for-the-badge&logo=ios&logoColor=FFD700&labelColor=000000)
 ![Night](https://img.shields.io/badge/MODE-DARK_KNIGHT-FFD700?style=for-the-badge&labelColor=000000)
 
 <img src="assets/divider.svg" width="100%"/>
@@ -24,7 +26,8 @@ public class TadeoBC extends DarkKnight implements Automatizador {
 
     private final String identidadSecreta = "Dev";
     private final String baseDeOperaciones = "Atlyx Studio";   // la baticueva
-    private final String[] arsenal = { "Java ☕", "Web", "Docker", "Postgres", "TypeScript" };
+    private final String[] arsenal = { "Java ☕", "Web", "Docker", "Postgres", "TypeScript", "macOS 🍎", "iOS" };
+    private final String dispositivoFavorito = "Mac";          // uwu
 
     @Override
     public void patrullar() {
@@ -47,6 +50,7 @@ public class TadeoBC extends DarkKnight implements Automatizador {
 | 🏪 | **Sistemas completos**: POS multigiro SaaS, rastreo GPS en tiempo real, apps de escritorio, e-commerce | `EN PRODUCCIÓN` |
 | 🌐 | **Webs** rápidas, animadas y que se ven increíbles | `SIEMPRE` |
 | 🚀 | **Servidores propios**: Docker, Caddy, Postgres, TLS, deploys sin depender de nadie | `24/7` |
+| 🍎 | **iOS developer & macOS lover**: apps nativas para iPhone, y vivo feliz en mi Mac uwu | `ACTIVA` |
 | 🏢 | **Atlyx Studio**: software a la medida para negocios reales | `FUNDADOR` |
 
 <img src="assets/divider.svg" width="100%"/>
@@ -62,6 +66,10 @@ public class TadeoBC extends DarkKnight implements Automatizador {
 ![Web](https://img.shields.io/badge/-WEB_/_FRONTEND-FFD700?style=flat-square&labelColor=000000&color=000000)
 
 ![Web](https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,vite&theme=dark)
+
+![Apple](https://img.shields.io/badge/-APPLE_🍎_uwu-FFD700?style=flat-square&labelColor=000000&color=000000)
+
+![Apple](https://skillicons.dev/icons?i=swift,apple,xcode&theme=dark)
 
 ![Backend](https://img.shields.io/badge/-BACKEND_/_DATOS-FFD700?style=flat-square&labelColor=000000&color=000000)
 
